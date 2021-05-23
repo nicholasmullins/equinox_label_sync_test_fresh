@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "30+1HxxME1UJUi24k+wgMA==\n", 
+    "height": 1024, 
+    "hier_level": 0, 
+    "human_hash": "div_X1196_Y266_W1448_H1024", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header___3tgVf col-md-8", 
+                "style": "text-align:center"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "header___3tgVf col-md-8", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 512, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "WELCOME\nFORWARD\nWELCOME\nFORWARD\nJoin Equinox today and pay $0 initiation. Offer ends May 25.CLAIM OFFER", 
+            "type": "", 
+            "value": "", 
+            "width": 724, 
+            "x": 598, 
+            "xPercent": 31.145833333333332, 
+            "y": 133, 
+            "yPercent": 1.9636793149269156
+        }, 
+        "location": {
+            "x": 598, 
+            "y": 133
+        }, 
+        "size": {
+            "height": 512, 
+            "width": 724
+        }, 
+        "tag_name": "div", 
+        "text": "WELCOME\nFORWARD\nWELCOME\nFORWARD\nJoin Equinox today and pay $0 initiation. Offer ends May 25.CLAIM OFFER"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "WELCOME\nFORWARD\nWELCOME\nFORWARD\nJoin Equinox today and pay $0 initiation. Offer ends May 25.CLAIM OFFER", 
+    "transformed": true, 
+    "width": 1448, 
+    "x": 1196, 
+    "y": 266
+}

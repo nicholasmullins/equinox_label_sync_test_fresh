@@ -1,0 +1,69 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "N+LcTJaeUan00vWcOk3HWw==\n", 
+    "height": 44, 
+    "hier_level": 0, 
+    "human_hash": "span_X2010_Y112_W92_H44", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Pilates", 
+            "type": "", 
+            "value": "", 
+            "width": 46, 
+            "x": 1005, 
+            "xPercent": 52.32421874999999, 
+            "y": 56, 
+            "yPercent": 0.8194300900634874
+        }, 
+        "location": {
+            "x": 1005, 
+            "y": 56
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 46
+        }, 
+        "tag_name": "span", 
+        "text": "Pilates"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Pilates", 
+    "transformed": true, 
+    "width": 92, 
+    "x": 2010, 
+    "y": 112
+}

@@ -1,0 +1,23 @@
+{
+    "elems": {
+        "iter_00000_step_00000_12_a.png": [
+            "mnu_pilates"
+        ], 
+        "iter_00000_step_00000_26_a.png": [
+            "mnu_clubs"
+        ], 
+        "iter_00000_step_00000_34_a.png": [
+            "mnu_spa"
+        ], 
+        "iter_00000_step_00000_35_a.png": [
+            "mnu_shop"
+        ], 
+        "iter_00000_step_00000_48_a.png": [
+            "mnu_personal_training"
+        ], 
+        "iter_00000_step_00000_7_a.png": [
+            "mnu_classes"
+        ]
+    }, 
+    "screens": {}
+}
