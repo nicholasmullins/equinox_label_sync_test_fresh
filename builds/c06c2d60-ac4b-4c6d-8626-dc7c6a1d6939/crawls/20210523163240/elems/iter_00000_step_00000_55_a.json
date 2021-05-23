@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "0kS8/HK4Jqs27MKDQVf7/w==\n", 
+    "height": 44, 
+    "hier_level": 0, 
+    "human_hash": "a_X2606_Y112_W212_H44", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "", 
+                "href": "/promotion/former-member?icmp=topnav-fm"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Equinox Alumni", 
+            "type": "", 
+            "value": "", 
+            "width": 106, 
+            "x": 1303, 
+            "xPercent": 67.84830729166667, 
+            "y": 56, 
+            "yPercent": 0.8194300900634874
+        }, 
+        "location": {
+            "x": 1303, 
+            "y": 56
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 106
+        }, 
+        "tag_name": "a", 
+        "text": "Equinox Alumni"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Equinox Alumni", 
+    "transformed": true, 
+    "width": 212, 
+    "x": 2606, 
+    "y": 112
+}

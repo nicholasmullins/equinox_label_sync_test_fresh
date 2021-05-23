@@ -4,5 +4,23 @@
     ], 
     "lnk_locations": [
         "/Users/bot/test_ai/apps/29859d56-e89b-4fcb-996f-a105a2ff1d44/builds/c06c2d60-ac4b-4c6d-8626-dc7c6a1d6939/crawls/20210523154310/elems/iter_00000_step_00000_31_a.png"
+    ], 
+    "mnu_classes": [
+        "/Users/bot/test_ai/apps/29859d56-e89b-4fcb-996f-a105a2ff1d44/builds/c06c2d60-ac4b-4c6d-8626-dc7c6a1d6939/crawls/20210523163240/elems/iter_00000_step_00000_7_a.png"
+    ], 
+    "mnu_clubs": [
+        "/Users/bot/test_ai/apps/29859d56-e89b-4fcb-996f-a105a2ff1d44/builds/c06c2d60-ac4b-4c6d-8626-dc7c6a1d6939/crawls/20210523163240/elems/iter_00000_step_00000_26_a.png"
+    ], 
+    "mnu_personal_training": [
+        "/Users/bot/test_ai/apps/29859d56-e89b-4fcb-996f-a105a2ff1d44/builds/c06c2d60-ac4b-4c6d-8626-dc7c6a1d6939/crawls/20210523163240/elems/iter_00000_step_00000_48_a.png"
+    ], 
+    "mnu_pilates": [
+        "/Users/bot/test_ai/apps/29859d56-e89b-4fcb-996f-a105a2ff1d44/builds/c06c2d60-ac4b-4c6d-8626-dc7c6a1d6939/crawls/20210523163240/elems/iter_00000_step_00000_12_a.png"
+    ], 
+    "mnu_shop": [
+        "/Users/bot/test_ai/apps/29859d56-e89b-4fcb-996f-a105a2ff1d44/builds/c06c2d60-ac4b-4c6d-8626-dc7c6a1d6939/crawls/20210523163240/elems/iter_00000_step_00000_35_a.png"
+    ], 
+    "mnu_spa": [
+        "/Users/bot/test_ai/apps/29859d56-e89b-4fcb-996f-a105a2ff1d44/builds/c06c2d60-ac4b-4c6d-8626-dc7c6a1d6939/crawls/20210523163240/elems/iter_00000_step_00000_34_a.png"
     ]
 }

@@ -1,5 +1,23 @@
 {
     "elems": {
+        "a_1482_112_80_44_a_0000000000006c607c60def6ceffceeedeefdfff7ff700000000000000000000_0cd40b062f1659290e2ca4a56aba6dfe": [
+            "mnu_clubs"
+        ], 
+        "a_1598_112_106_44_a_0000000000007800f8009dea9fff9ffe9ffbffff7fff00000000000000000000_962b74c4a4de710ef7e1fc5efa538b69": [
+            "mnu_classes"
+        ], 
+        "a_1740_112_234_44_a_00000000000080d080c0ff7fff7fff7fff7fff7f7f7f00030003000000000000_7db6741b3b6a6cd5125db948d337eac7": [
+            "mnu_personal_training"
+        ], 
+        "a_2010_112_92_44_a_000000000000dc00ec40bfd6fffffffedfffdfffdf7e00000000000000000000_82cf2c32b53cb95f04edd5ddcd4001fb": [
+            "mnu_pilates"
+        ], 
+        "a_2136_112_74_44_a_00000000000074007c005f6e67ff3d9b5d9b5dff756e00080008000000000000_d5d7c7ca8cf1a6a118c51745dc3c129b": [
+            "mnu_shop"
+        ], 
+        "a_2246_112_56_44_a_00000000000038007c006fce73fe3b6e4f7e6f7a3bde03000300000000000000_522f1c95c4c282b722b546a9433624a2": [
+            "mnu_spa"
+        ], 
         "a_2778_4_204_72_a_0000000000000000000000003ffc3ffc3ffc3ffc000000000000000000000000_380034fc9bb86b15f4f85514c7356f87": [
             "lnk_locations"
         ], 

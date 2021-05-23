@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "cnngiIgBIBRs5m9JdUjroQ==\n", 
+    "height": 54, 
+    "hier_level": 0, 
+    "human_hash": "span_X1268_Y200_W1038_H54", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "notificationCopy___FTZp9", 
+                "style": "color: rgb(0, 0, 0);"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "notificationCopy___FTZp9", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 18, 
+            "height": 27, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Join Equinox today and pay $0 initiation. Offer ends May\u00a025.", 
+            "type": "", 
+            "value": "", 
+            "width": 519, 
+            "x": 634, 
+            "xPercent": 33.04443359375, 
+            "y": 100, 
+            "yPercent": 1.4764506127270043
+        }, 
+        "location": {
+            "x": 634, 
+            "y": 100
+        }, 
+        "size": {
+            "height": 27, 
+            "width": 519
+        }, 
+        "tag_name": "span", 
+        "text": "Join Equinox today and pay $0 initiation. Offer ends May\u00a025."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Join Equinox today and pay $0 initiation. Offer ends May\u00a025.", 
+    "transformed": true, 
+    "width": 1038, 
+    "x": 1268, 
+    "y": 200
+}
