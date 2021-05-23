@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "2FMynRO9v55EMglS/wr/4A==\n", 
+    "height": 14, 
+    "hier_level": 0, 
+    "human_hash": "span_X1813_Y829_W67_H14", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "message"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "message", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12.25, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Chat with us", 
+            "type": "", 
+            "value": "", 
+            "width": 67, 
+            "x": 1813, 
+            "xPercent": 94.45068359375, 
+            "y": 829, 
+            "yPercent": 12.281481481481482
+        }, 
+        "location": {
+            "x": 1813, 
+            "y": 829
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 67
+        }, 
+        "tag_name": "span", 
+        "text": "Chat with us"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Chat with us", 
+    "transformed": true, 
+    "width": 67, 
+    "x": 1813, 
+    "y": 829
+}
