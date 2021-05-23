@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "RyfeIRhDtnJ5XxaZ0mDMfA==\n", 
+    "height": 112, 
+    "hier_level": 0, 
+    "human_hash": "div_X1558_Y1100_W724_H112", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "col-lg-8 p-0", 
+                "style": "margin:0 auto;margin-left:auto"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "col-lg-8 p-0", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 56, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "CLAIM OFFER", 
+            "type": "", 
+            "value": "", 
+            "width": 362, 
+            "x": 779, 
+            "xPercent": 40.572916666666664, 
+            "y": 550, 
+            "yPercent": 8.166812073062072
+        }, 
+        "location": {
+            "x": 779, 
+            "y": 550
+        }, 
+        "size": {
+            "height": 56, 
+            "width": 362
+        }, 
+        "tag_name": "div", 
+        "text": "CLAIM OFFER"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "CLAIM OFFER", 
+    "transformed": true, 
+    "width": 724, 
+    "x": 1558, 
+    "y": 1100
+}

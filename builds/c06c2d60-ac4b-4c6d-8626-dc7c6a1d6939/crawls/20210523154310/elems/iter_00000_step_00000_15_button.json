@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "A76eY65hDep/COlFm9nwPg==\n", 
+    "height": 92, 
+    "hier_level": 0, 
+    "human_hash": "button_X3522_Y1602_W294_H92", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "uiButton helpButtonEnabled", 
+                "href": "javascript:void(0)"
+            }, 
+            "background-color": "rgb(0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "uiButton helpButtonEnabled", 
+            "domLevel": 4, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12.25, 
+            "height": 46, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Live chat:Chat with us", 
+            "type": "", 
+            "value": "", 
+            "width": 147, 
+            "x": 1761, 
+            "xPercent": 91.71875, 
+            "y": 801, 
+            "yPercent": 11.894861894861895
+        }, 
+        "location": {
+            "x": 1761, 
+            "y": 801
+        }, 
+        "size": {
+            "height": 46, 
+            "width": 147
+        }, 
+        "tag_name": "button", 
+        "text": "Live chat:Chat with us"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Live chat:Chat with us", 
+    "transformed": true, 
+    "width": 294, 
+    "x": 3522, 
+    "y": 1602
+}

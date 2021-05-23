@@ -1,0 +1,14 @@
+{
+    "elems": {
+        "iter_00000_step_00000_16_div.png": {
+            "btn_chat_with_us": {
+                "all_scores": {
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }
+    }, 
+    "screens": {}
+}

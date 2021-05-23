@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "j7bMY593GR5FTODAp3qLdg==\n", 
+    "height": 92, 
+    "hier_level": 0, 
+    "human_hash": "div_X3522_Y1602_W294_H92", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "helpButton"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "helpButton", 
+            "domLevel": 3, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 46, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Live chat:Chat with us", 
+            "type": "", 
+            "value": "", 
+            "width": 147, 
+            "x": 1761, 
+            "xPercent": 91.71875, 
+            "y": 801, 
+            "yPercent": 11.894861894861895
+        }, 
+        "location": {
+            "x": 1761, 
+            "y": 801
+        }, 
+        "size": {
+            "height": 46, 
+            "width": 147
+        }, 
+        "tag_name": "div", 
+        "text": "Live chat:Chat with us"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Live chat:Chat with us", 
+    "transformed": true, 
+    "width": 294, 
+    "x": 3522, 
+    "y": 1602
+}
