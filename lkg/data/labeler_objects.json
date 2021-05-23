@@ -1,10 +1,66 @@
 {
     "elems": {
         "dupe_to_master_key": {
+            "MTE0OGYzMWMxMTk1MTA2NDNhOWEyNWE0MmMwMWZkYzQ.png": "MTE0OGYzMWMxMTk1MTA2NDNhOWEyNWE0MmMwMWZkYzQ.png", 
+            "MTkyZmFhNzQyZTg1NjAwYWE3MWJjNTAyYWZhOWFlODA.png": "MTkyZmFhNzQyZTg1NjAwYWE3MWJjNTAyYWZhOWFlODA.png", 
             "MzhjMGJkNGRlMTMxNjYzZjAyOGZiODVmNGU0OTkzMmI.png": "MzhjMGJkNGRlMTMxNjYzZjAyOGZiODVmNGU0OTkzMmI.png", 
-            "OTZlOWY1YmJlNzk3OWNmY2ZkNDBkMjkyNGY0MThlNDQ.png": "OTZlOWY1YmJlNzk3OWNmY2ZkNDBkMjkyNGY0MThlNDQ.png"
+            "ODNhODMzNmUyOTViZjEyMWQwMzhmY2YxMjdkYjRkZWY.png": "ODNhODMzNmUyOTViZjEyMWQwMzhmY2YxMjdkYjRkZWY.png", 
+            "OTZlOWY1YmJlNzk3OWNmY2ZkNDBkMjkyNGY0MThlNDQ.png": "OTZlOWY1YmJlNzk3OWNmY2ZkNDBkMjkyNGY0MThlNDQ.png", 
+            "YTliNmM5YzZjMjdlNzAwNzMxY2JhZjEwYzQ0OTQxZmM.png": "YTliNmM5YzZjMjdlNzAwNzMxY2JhZjEwYzQ0OTQxZmM.png", 
+            "YjNlYWE5NDkzMWY0MjU3NTk0NThiOGUwNjMyODFmYWI.png": "YjNlYWE5NDkzMWY0MjU3NTk0NThiOGUwNjMyODFmYWI.png", 
+            "ZmIyMGMzNzAxZjk1MDc1MjViMTQ4M2ZlOTZlZTVjYmU.png": "ZmIyMGMzNzAxZjk1MDc1MjViMTQ4M2ZlOTZlZTVjYmU.png"
         }, 
         "elems_to_infos": {
+            "MTE0OGYzMWMxMTk1MTA2NDNhOWEyNWE0MmMwMWZkYzQ.png": {
+                "context_screen_img": "23d4e0d7d1bac0df9df48944e228eaa3.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "MTE0OGYzMWMxMTk1MTA2NDNhOWEyNWE0MmMwMWZkYzQ.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "On7eBBN2jKZGHoK0eoEZIA==\n", 
+                    "height": 22, 
+                    "human_hash": "a_X799_Y56_W53_H22", 
+                    "tag_name": "a", 
+                    "text": "Classes", 
+                    "width": 53, 
+                    "x": 799, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Classes"
+                ]
+            }, 
+            "MTkyZmFhNzQyZTg1NjAwYWE3MWJjNTAyYWZhOWFlODA.png": {
+                "context_screen_img": "23d4e0d7d1bac0df9df48944e228eaa3.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "MTkyZmFhNzQyZTg1NjAwYWE3MWJjNTAyYWZhOWFlODA.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "tZn4t+9GTxW/rlfIKhHzwQ==\n", 
+                    "height": 22, 
+                    "human_hash": "a_X870_Y56_W117_H22", 
+                    "tag_name": "a", 
+                    "text": "Personal Training", 
+                    "width": 117, 
+                    "x": 870, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Personal_Training"
+                ]
+            }, 
             "MzhjMGJkNGRlMTMxNjYzZjAyOGZiODVmNGU0OTkzMmI.png": {
                 "context_screen_img": "6a8ebb6cc6d3f2e34a105bc6237d8ef6.png", 
                 "dupe_count": 1, 
@@ -28,6 +84,31 @@
                 ], 
                 "text": [
                     "Locations"
+                ]
+            }, 
+            "ODNhODMzNmUyOTViZjEyMWQwMzhmY2YxMjdkYjRkZWY.png": {
+                "context_screen_img": "23d4e0d7d1bac0df9df48944e228eaa3.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "ODNhODMzNmUyOTViZjEyMWQwMzhmY2YxMjdkYjRkZWY.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "UoxpgAwHNMdM8UDzMYgF6Q==\n", 
+                    "height": 22, 
+                    "human_hash": "a_X741_Y56_W40_H22", 
+                    "tag_name": "a", 
+                    "text": "Clubs", 
+                    "width": 40, 
+                    "x": 741, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Clubs"
                 ]
             }, 
             "OTZlOWY1YmJlNzk3OWNmY2ZkNDBkMjkyNGY0MThlNDQ.png": {
@@ -54,27 +135,171 @@
                 "text": [
                     "Live_chat:Chat_with_us"
                 ]
+            }, 
+            "YTliNmM5YzZjMjdlNzAwNzMxY2JhZjEwYzQ0OTQxZmM.png": {
+                "context_screen_img": "23d4e0d7d1bac0df9df48944e228eaa3.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "YTliNmM5YzZjMjdlNzAwNzMxY2JhZjEwYzQ0OTQxZmM.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "wiQsV2h1uTOIjzWhoEUJfQ==\n", 
+                    "height": 22, 
+                    "human_hash": "a_X1005_Y56_W46_H22", 
+                    "tag_name": "a", 
+                    "text": "Pilates", 
+                    "width": 46, 
+                    "x": 1005, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Pilates"
+                ]
+            }, 
+            "YjNlYWE5NDkzMWY0MjU3NTk0NThiOGUwNjMyODFmYWI.png": {
+                "context_screen_img": "23d4e0d7d1bac0df9df48944e228eaa3.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "YjNlYWE5NDkzMWY0MjU3NTk0NThiOGUwNjMyODFmYWI.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "Zt9rGmU7iQrGqfKe/2nexw==\n", 
+                    "height": 22, 
+                    "human_hash": "a_X1123_Y56_W28_H22", 
+                    "tag_name": "a", 
+                    "text": "Spa", 
+                    "width": 28, 
+                    "x": 1123, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Spa"
+                ]
+            }, 
+            "ZmIyMGMzNzAxZjk1MDc1MjViMTQ4M2ZlOTZlZTVjYmU.png": {
+                "context_screen_img": "23d4e0d7d1bac0df9df48944e228eaa3.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "ZmIyMGMzNzAxZjk1MDc1MjViMTQ4M2ZlOTZlZTVjYmU.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "Lm0e5VJlVlzhfP+o+mnHNw==\n", 
+                    "height": 22, 
+                    "human_hash": "a_X1068_Y56_W37_H22", 
+                    "tag_name": "a", 
+                    "text": "Shop", 
+                    "width": 37, 
+                    "x": 1068, 
+                    "y": 56
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Shop"
+                ]
             }
         }, 
         "sorted_elems": [
+            "MTE0OGYzMWMxMTk1MTA2NDNhOWEyNWE0MmMwMWZkYzQ.png", 
+            "MTkyZmFhNzQyZTg1NjAwYWE3MWJjNTAyYWZhOWFlODA.png", 
+            "YjNlYWE5NDkzMWY0MjU3NTk0NThiOGUwNjMyODFmYWI.png", 
+            "YTliNmM5YzZjMjdlNzAwNzMxY2JhZjEwYzQ0OTQxZmM.png", 
+            "ZmIyMGMzNzAxZjk1MDc1MjViMTQ4M2ZlOTZlZTVjYmU.png", 
+            "ODNhODMzNmUyOTViZjEyMWQwMzhmY2YxMjdkYjRkZWY.png", 
             "MzhjMGJkNGRlMTMxNjYzZjAyOGZiODVmNGU0OTkzMmI.png", 
             "OTZlOWY1YmJlNzk3OWNmY2ZkNDBkMjkyNGY0MThlNDQ.png"
         ], 
         "uniques_to_dupes": {
+            "MTE0OGYzMWMxMTk1MTA2NDNhOWEyNWE0MmMwMWZkYzQ.png": [
+                "MTE0OGYzMWMxMTk1MTA2NDNhOWEyNWE0MmMwMWZkYzQ.png"
+            ], 
+            "MTkyZmFhNzQyZTg1NjAwYWE3MWJjNTAyYWZhOWFlODA.png": [
+                "MTkyZmFhNzQyZTg1NjAwYWE3MWJjNTAyYWZhOWFlODA.png"
+            ], 
             "MzhjMGJkNGRlMTMxNjYzZjAyOGZiODVmNGU0OTkzMmI.png": [
                 "MzhjMGJkNGRlMTMxNjYzZjAyOGZiODVmNGU0OTkzMmI.png"
             ], 
+            "ODNhODMzNmUyOTViZjEyMWQwMzhmY2YxMjdkYjRkZWY.png": [
+                "ODNhODMzNmUyOTViZjEyMWQwMzhmY2YxMjdkYjRkZWY.png"
+            ], 
             "OTZlOWY1YmJlNzk3OWNmY2ZkNDBkMjkyNGY0MThlNDQ.png": [
                 "OTZlOWY1YmJlNzk3OWNmY2ZkNDBkMjkyNGY0MThlNDQ.png"
+            ], 
+            "YTliNmM5YzZjMjdlNzAwNzMxY2JhZjEwYzQ0OTQxZmM.png": [
+                "YTliNmM5YzZjMjdlNzAwNzMxY2JhZjEwYzQ0OTQxZmM.png"
+            ], 
+            "YjNlYWE5NDkzMWY0MjU3NTk0NThiOGUwNjMyODFmYWI.png": [
+                "YjNlYWE5NDkzMWY0MjU3NTk0NThiOGUwNjMyODFmYWI.png"
+            ], 
+            "ZmIyMGMzNzAxZjk1MDc1MjViMTQ4M2ZlOTZlZTVjYmU.png": [
+                "ZmIyMGMzNzAxZjk1MDc1MjViMTQ4M2ZlOTZlZTVjYmU.png"
             ]
         }
     }, 
     "screens": {
         "dupe_to_master_key": {
+            "23d4e0d7d1bac0df9df48944e228eaa3.png": "23d4e0d7d1bac0df9df48944e228eaa3.png", 
             "6a8ebb6cc6d3f2e34a105bc6237d8ef6.png": "6a8ebb6cc6d3f2e34a105bc6237d8ef6.png"
         }, 
         "screens_to_elems": {}, 
         "screens_to_infos": {
+            "23d4e0d7d1bac0df9df48944e228eaa3.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "23d4e0d7d1bac0df9df48944e228eaa3.png"
+                ], 
+                "tags": [
+                    "a", 
+                    "span", 
+                    "img", 
+                    "button", 
+                    "h1", 
+                    "all_screens", 
+                    "div"
+                ], 
+                "text": [
+                    "", 
+                    "shop", 
+                    "studios", 
+                    "claim_offer", 
+                    "locations", 
+                    "clubs", 
+                    "spa", 
+                    "live_chat:", 
+                    "discover_our_other_brandshigh_performance_livinglocationsstudioshotelsequinox_fitness_cluba_temple_of_well-being_featuring_world-class_personal_trainers,_group_fitness_classes,_spas_and_more.equinox_sports_clubmore_than_just_an_hour_of_the_day,_it\u2019s_a_second_space._a_magnetic_destination_for_members_to_pursue_their_goals_and_build_a_community.e_by_equinoxunequaled._unexpected._utterly_personal._a_sanctuary_of_bespoke_service_and_our_finest_amenities_to_unlock_your_highest_performance._precision_runsurpass_all_limits_with_expert-driven_classes,_innovative_spaces,_and_a_mission_to_redefine_treadmill_training.equinox_hotelsfueled_by_ambition._powered_by_possibilities._experience_luxury_for_those_who_want_it_all.clubsclassespersonal_trainingpilatesshopspamember_benefitsequinox_alumniloginjoin_onlineclaim_offer", 
+                    "hotels", 
+                    "pilates", 
+                    "clubsclassespersonal_trainingpilatesshopspamember_benefitsequinox_alumniloginjoin_onlineclaim_offer", 
+                    "chat_with_us", 
+                    "welcome\nforward", 
+                    "welcome\nforward\nwelcome\nforward\njoin_equinox_today_and_pay_$0_initiation._offer_ends_may_25.claim_offer", 
+                    "member_benefits", 
+                    "discover_our_other_brandshigh_performance_living", 
+                    "live_chat:chat_with_us", 
+                    "join_online", 
+                    "equinox_alumni", 
+                    "discover_our_other_brandshigh_performance_livinglocationsstudioshotelsequinox_fitness_cluba_temple_of_well-being_featuring_world-class_personal_trainers,_group_fitness_classes,_spas_and_more.equinox_sports_clubmore_than_just_an_hour_of_the_day,_it\u2019s_a_second_space._a_magnetic_destination_for_members_to_pursue_their_goals_and_build_a_community.e_by_equinoxunequaled._unexpected._utterly_personal._a_sanctuary_of_bespoke_service_and_our_finest_amenities_to_unlock_your_highest_performance._precision_runsurpass_all_limits_with_expert-driven_classes,_innovative_spaces,_and_a_mission_to_redefine_treadmill_training.equinox_hotelsfueled_by_ambition._powered_by_possibilities._experience_luxury_for_those_who_want_it_all.", 
+                    "personal_training", 
+                    "discover_our_other_brandshigh_performance_livinglocationsstudioshotels", 
+                    "classes", 
+                    "login"
+                ]
+            }, 
             "6a8ebb6cc6d3f2e34a105bc6237d8ef6.png": {
                 "dupe_count": [
                     1
@@ -121,9 +346,13 @@
             }
         }, 
         "sorted_screens": [
+            "23d4e0d7d1bac0df9df48944e228eaa3.png", 
             "6a8ebb6cc6d3f2e34a105bc6237d8ef6.png"
         ], 
         "uniques_to_dupes": {
+            "23d4e0d7d1bac0df9df48944e228eaa3.png": [
+                "23d4e0d7d1bac0df9df48944e228eaa3.png"
+            ], 
             "6a8ebb6cc6d3f2e34a105bc6237d8ef6.png": [
                 "6a8ebb6cc6d3f2e34a105bc6237d8ef6.png"
             ]

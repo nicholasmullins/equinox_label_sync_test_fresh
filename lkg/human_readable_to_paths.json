@@ -2,7 +2,25 @@
     "btn_chat_with_us": [
         "/Users/bot/test_ai/apps/29859d56-e89b-4fcb-996f-a105a2ff1d44/builds/c06c2d60-ac4b-4c6d-8626-dc7c6a1d6939/crawls/20210523154310/elems/iter_00000_step_00000_15_button.png"
     ], 
+    "buttonpilates": [
+        "/Users/bot/test_ai/apps/29859d56-e89b-4fcb-996f-a105a2ff1d44/builds/c06c2d60-ac4b-4c6d-8626-dc7c6a1d6939/crawls/20210523182920/elems/iter_00000_step_00000_32_a.png"
+    ], 
     "lnk_locations": [
         "/Users/bot/test_ai/apps/29859d56-e89b-4fcb-996f-a105a2ff1d44/builds/c06c2d60-ac4b-4c6d-8626-dc7c6a1d6939/crawls/20210523154310/elems/iter_00000_step_00000_31_a.png"
+    ], 
+    "mnu_classes": [
+        "/Users/bot/test_ai/apps/29859d56-e89b-4fcb-996f-a105a2ff1d44/builds/c06c2d60-ac4b-4c6d-8626-dc7c6a1d6939/crawls/20210523182920/elems/iter_00000_step_00000_51_a.png"
+    ], 
+    "mnu_clubs": [
+        "/Users/bot/test_ai/apps/29859d56-e89b-4fcb-996f-a105a2ff1d44/builds/c06c2d60-ac4b-4c6d-8626-dc7c6a1d6939/crawls/20210523182920/elems/iter_00000_step_00000_3_a.png"
+    ], 
+    "mnu_personal_training": [
+        "/Users/bot/test_ai/apps/29859d56-e89b-4fcb-996f-a105a2ff1d44/builds/c06c2d60-ac4b-4c6d-8626-dc7c6a1d6939/crawls/20210523182920/elems/iter_00000_step_00000_50_a.png"
+    ], 
+    "shopbutton": [
+        "/Users/bot/test_ai/apps/29859d56-e89b-4fcb-996f-a105a2ff1d44/builds/c06c2d60-ac4b-4c6d-8626-dc7c6a1d6939/crawls/20210523182920/elems/iter_00000_step_00000_20_a.png"
+    ], 
+    "spabutton": [
+        "/Users/bot/test_ai/apps/29859d56-e89b-4fcb-996f-a105a2ff1d44/builds/c06c2d60-ac4b-4c6d-8626-dc7c6a1d6939/crawls/20210523182920/elems/iter_00000_step_00000_49_a.png"
     ]
 }
